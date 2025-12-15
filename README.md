@@ -7,7 +7,9 @@
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 
-### Resources:  
-  >https://nerdcave.com/tailwind-cheat-sheet <br>
-  >https://css-loaders.com/ <br>
-  >https://ui.shadcn.com/ <br>
+## Resources: 
+
+> ### CSS
+  > https://nerdcave.com/tailwind-cheat-sheet <br>
+  > https://css-loaders.com/ <br>
+  > https://ui.shadcn.com/ <br>
