@@ -8,6 +8,6 @@
 
 
 ### Resources:  
-  >https://nerdcave.com/tailwind-cheat-sheet
-  >https://css-loaders.com/
-  >https://ui.shadcn.com/
+  >https://nerdcave.com/tailwind-cheat-sheet <br>
+  >https://css-loaders.com/ <br>
+  >https://ui.shadcn.com/ <br>
