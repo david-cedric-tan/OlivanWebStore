@@ -9,10 +9,13 @@
 
 
 ## How To Run? 
-> Paste the following to your local terminal: <br>
->``` cd frontend && npm install``` <br>
->```npm run dev```
-
+Paste the following into your local terminal: <br>
+```
+cd frontend && npm install
+```
+```
+npm run dev
+```
 ## Resources: 
 
 > ### CSS
