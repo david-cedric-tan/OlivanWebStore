@@ -7,6 +7,12 @@
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 
+
+## How To Run? 
+> Paste the following to your local terminal: <br>
+>``` cd frontend && npm install``` <br>
+>```npm run dev```
+
 ## Resources: 
 
 > ### CSS
